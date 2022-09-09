@@ -2,7 +2,7 @@
 
 ## What is a VPC - why should we use it - benefits
 ---
-![diagram of VPC](../images/Virtual_Private_Cloud_(VPC).jpg)
+![diagram of VPC](../vpc-images/Virtual_Private_Cloud_(VPC).jpg)
 
 ### VPC - Virtual Private Cloud
 ---
@@ -26,19 +26,19 @@ Eco-Friendly. More businesses and individuals today are looking to go green. Not
 
 ## What is an internet gateway
 ---
-![internet gateway diagram](../images/internet_gateway.jpg)
+![internet gateway diagram](../vpc-images/internet_gateway.jpg)
 
 A gateway is a network node that forms a passage between two networks operating with different transmission protocols. The most common type of gateways, the network gateway operates at layer 3, i.e. network layer of the OSI (open systems interconnection) model. However, depending upon the functionality, a gateway can operate at any of the seven layers of OSI model. It acts as the entry – exit point for a network since all traffic that flows across the networks should pass through the gateway. Only the internal traffic between the nodes of a LAN does not pass through the gateway.
 
 ## What is a Subnet
 ---
-![Subnetting diagram](../images/subnetting.jpg)
+![Subnetting diagram](../vpc-images/subnetting.jpg)
 A subnet, or subnetwork, is a network inside a network. Subnets make networks more efficient. Through subnetting, network traffic can travel a shorter distance without passing through unnecessary routers to reach its destination.
 
 
 ## What is a CDIR block - how to create one
 ---
-![CDIR calculator](../images/aws-subnets-cidr-blocks-simply-calculate.jpg)
+![CDIR calculator](../vpc-images/aws-subnets-cidr-blocks-simply-calculate.jpg)
 
 ### What is a CDIR block
 ---
