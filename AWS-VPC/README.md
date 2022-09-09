@@ -2,7 +2,7 @@
 
 ## What is a VPC - why should we use it - benefits
 ---
-![diagram of VPC](./vpc-images/Virtual_Private_Cloud_(VPC).jpg)
+![diagram of VPC](./vpc-images/Virtual_Private_Cloud_(VPC).png)
 
 ### VPC - Virtual Private Cloud
 ---
